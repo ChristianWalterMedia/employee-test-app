@@ -1,6 +1,6 @@
 <script lang="ts">
 import Vue from "vue";
-import CashfoxIcon from "@/components/icons/LogoIcon.vue";
+import LogoIcon from "@/components/icons/LogoIcon.vue";
 import HorizontalDivider from "@/components/HorizontalDivider.vue";
 import FooterLayout from "@/components/FooterLayout.vue";
 
@@ -23,7 +23,7 @@ export default Vue.extend({
     <header class="relative mb-8">
       <div class="relative z-10">
         <div class="container mx-auto p-5">
-          <CashfoxIcon class="h-[32px]" />
+          <LogoIcon class="h-[32px]" />
         </div>
       </div>
       <HorizontalDivider class="absolute top-0 left-0 z-0" />
