@@ -14,7 +14,7 @@ export default Vue.extend({
       windowWidth: window.innerWidth,
     };
   },
-  components: { HorizontalDivider, CashfoxIcon, FooterLayout },
+  components: { HorizontalDivider, LogoIcon, FooterLayout },
 });
 </script>
 
