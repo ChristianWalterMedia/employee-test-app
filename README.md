@@ -1,7 +1,6 @@
 # Employee App
 
-### Demo
-https://master--inspiring-cucurucho-168555.netlify.app/dashboard
+[Demo](https://master--inspiring-cucurucho-168555.netlify.app/dashboard)
 
 ### How to start
 1. Clone repository
